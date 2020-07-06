@@ -1,5 +1,7 @@
 # line-graph-vis
 
+[Preview of line-graph-vis](lv-preview.gif "Preview of line-graph-vis(-static)")
+
 Linear line graph visualization using Processing 3.
 
 There are two types which are full and static. Each with a GraphSystem and line_graph_vis. For full, the data is shown entirely from start to current time/finish. For static (still expreimental!), the data "scrolls" through time.
