@@ -9,8 +9,6 @@ There are two types which are full and static. Each with a GraphSystem and line_
 2. Make sure the data file is in the folder or use your data.
 3. Experiments with the input numbers! If you have any question please raise it in the issues tab.
 
-*
-
 ### Movement in Static Mode
 In static mode where vertical axis try to fit the line graph, the code supports auto playbacking (not 100% reliable), normal playback, recording and playbacking from the recorded movement.
 
@@ -31,3 +29,6 @@ In static mode where vertical axis try to fit the line graph, the code supports 
 * Have the text not stack with one another.
 * Improved zooming system.
 * Simplify code...?
+
+## License
+This source code is distributed under GNU General Public License v3.0. If you create an image or/and a video using the software and upload, broadcast or share with any other means, you must credit the software used and include a link to this GitHub repository.
