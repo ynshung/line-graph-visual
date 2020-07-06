@@ -21,11 +21,13 @@ In static mode where vertical axis try to fit the line graph, the code supports 
 ## TODO
 
 ### Full
+* Add axes names.
 * Have the text not stack with one another.
 * Loading color from external file for convenience.
 * Simplify code.
 
 ### Static
+* Add axes names.
 * Implement coloring of lines and text.
 * Dot pulse when data becomes either avaliable or not available.
 * Have the text not stack with one another.
