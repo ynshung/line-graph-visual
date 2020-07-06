@@ -1,6 +1,6 @@
 # line-graph-vis
 
-[Preview of line-graph-vis](lv-preview.gif "Preview of line-graph-vis(-static)")
+![Preview of line-graph-vis](lv-preview.gif "Preview of line-graph-vis(-static)")
 
 Linear line graph visualization using Processing 3.
 
